@@ -1,0 +1,40 @@
+body {
+  background-image: url(https://afar-production.imgix.net/uploads/images/post_images/images/5M5w54pVUL/original_Art_Lounge_New_Hotel179249studiopaterakis.com.jpg?1436911397?ixlib=rails-0.3.0&auto=format%2Ccompress&crop=entropy&fit=crop&h=719&q=80&w=954);
+  background-repeat: no-repeat;
+  background-size: 1000px;
+  background-position: top;
+  font-size: 9mm;
+}
+#msg1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  color: whitesmoke;
+}
+#hotelName {
+  width: 600px;
+  display: flex;
+  justify-content: center;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+  margin-left: 173mm;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  color: whitesmoke;
+}
+#Pool {
+  display: flex;
+  justify-content: center;
+  color: red;
+  margin-top: 10px;
+  font-size: 50px;
+  margin-right: 300px;
+}
+#Gym {
+  display: flex;
+  justify-content: center;
+  color: yellow;
+  margin-top: 10px;
+  font-size: 50px;
+  margin-right: 300px;
+}
